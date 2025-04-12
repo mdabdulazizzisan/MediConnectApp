@@ -1,7 +1,5 @@
 package com.kolu.mediconnect.presentation.screens.appointment
 
-package com.kolu.mediconnect.presentation.screens.appointment
-
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
