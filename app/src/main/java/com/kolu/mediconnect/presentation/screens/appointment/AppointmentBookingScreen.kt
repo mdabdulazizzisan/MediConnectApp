@@ -29,7 +29,6 @@ import androidx.compose.ui.unit.dp
 import com.kolu.mediconnect.domain.model.BangladeshLocations
 import com.kolu.mediconnect.presentation.components.DatePickerField
 import com.kolu.mediconnect.presentation.components.DropDown
-import com.kolu.mediconnect.presentation.components.TimePickerField
 
 @RequiresApi(Build.VERSION_CODES.O)
 @Composable
